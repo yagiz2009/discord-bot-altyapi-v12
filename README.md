@@ -38,3 +38,4 @@ Yazarak çalıştıramazsanız `node index.js` kullanmayı deneyin.
 ## Bilgilendirme
 
 Bu altyapı **Serendia Squad** sunucusu için **Alosha** tarafından hazırlanmıştır.
+[![Run on Repl.it](https://repl.it/badge/github/serendiasquad/discord-bot-altyapi-v12)](https://repl.it/github/serendiasquad/discord-bot-altyapi-v12)
